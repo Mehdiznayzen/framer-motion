@@ -1,0 +1,8 @@
+section{
+    background: linear-gradient(90deg, rgba(122, 10, 159, 1) 0%, rgba(190, 83, 255, 1) 50%, rgba(124, 7, 162, 1) 100%);
+}
+
+.active{
+    color: #fff;
+    transform: scale(1.3);
+}
